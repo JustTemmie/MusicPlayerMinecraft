@@ -1,0 +1,29 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "MSM",
+    "NFN",
+    "MLM"
+  ],
+  "key": {
+    "F": {
+      "item": "midi_player:freddy_kalas_item"
+    },
+    "M": {
+      "item": "minecraft:magma_block"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "midi_player:evil_freddy_kalas_item",
+    "count": 1
+  }
+}

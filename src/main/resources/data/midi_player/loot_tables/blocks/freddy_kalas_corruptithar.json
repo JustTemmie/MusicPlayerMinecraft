@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "midi_player:freddy_kalas_corruptithar",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

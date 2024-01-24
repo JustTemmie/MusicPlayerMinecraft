@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "midi_player",
+	"version": "${version}",
+	"name": "Midi Player",
+	"description": "megalovania*",
+	"authors": [
+		"JustTemmie"
+	],
+	"contact": {
+		"homepage": "https://beaver.mom",
+		"sources": "https://github.com/JustTemmie"
+	},
+	"license": "MIT",
+	"icon": "assets/midi_player/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mom.beaver.midi_player.MidiPlayer"
+		],
+		"client": [
+			"mom.beaver.midi_player.MidiPlayerClient"
+		],
+		"server": [
+			"mom.beaver.midi_player.MidiPlayerServer"
+		]
+	},
+	"mixins": [
+      "midi_player.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.24",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

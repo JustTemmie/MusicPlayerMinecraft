@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "midi_player:block/freddy_kalas_corruptithar"
+  }
+}

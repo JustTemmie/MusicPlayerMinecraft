@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "tag": "minecraft:flowers"
+    }
+  ],
+  "result": {
+    "item": "midi_player:freddy_kalas_item",
+    "count": 1
+  }
+}

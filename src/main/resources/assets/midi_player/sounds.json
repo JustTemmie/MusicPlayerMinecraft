@@ -1,0 +1,15 @@
+{
+  "jovial-song": {
+    "subtitle": "subtitles.midi_player.jovial-song",
+    "sounds": [
+      "midi_player:jovial-song"
+    ]
+  },
+  "freddy-kalas": {
+    "subtitle": "subtitles.midi_player.freddy-kalas",
+    "sounds": [
+      "midi_player:freddy-kalas"
+    ]
+  }
+}
+

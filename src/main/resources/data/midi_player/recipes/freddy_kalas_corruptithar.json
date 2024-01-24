@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TTT",
+    "TTT"
+  ],
+  "key": {
+    "T": {
+      "item": "midi_player:freddy_kalas_item"
+    }
+  },
+  "result": {
+    "item": "midi_player:freddy_kalas_corruptithar",
+    "count": 1
+  }
+}
